@@ -135,10 +135,10 @@ Typical results on test recordings:
 audio_noise_reduction/
 ├── main.py              # Main program entry point
 ├── audio_converter.py   # Audio format conversion
-├── filters.py          # Noise reduction algorithms
-├── audio_io.py         # WAV file I/O operations
-├── analyzer.py         # Visualization and plotting
-├── requirements.txt    # Python dependencies
-├── ffmpeg.exe         # FFmpeg executable (Windows)
-└── outputs/           # Output directory for processed files
+├── filters.py           # Noise reduction algorithms
+├── audio_io.py          # WAV file I/O operations
+├── analyzer.py          # Visualization and plotting
+├── requirements.txt     # Python dependencies
+├── ffmpeg.exe           # FFmpeg executable (Windows)
+└── outputs/             # Output directory for processed files
 ```
